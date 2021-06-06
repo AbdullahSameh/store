@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Lenovo",
+    "quantity": "10",
+    "price": "1000",
+    "datetime": "21-06-04 14:41:01"
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "quantity": "10",
+    "price": "2000",
+    "datetime": "21-06-05 14:42:15"
+  },
+  {
+    "id": 3,
+    "name": "Dell",
+    "quantity": "10",
+    "price": "1500",
+    "datetime": "21-06-03 14:42:32"
+  },
+  {
+    "name": "HP",
+    "quantity": "10",
+    "price": "1700",
+    "id": 4,
+    "datetime": "21-06-05 09:54:09"
+  },
+  {
+    "name": "Asus",
+    "quantity": "10",
+    "price": "1800",
+    "id": 5,
+    "datetime": "21-06-05 10:52:43"
+  },
+  {
+    "name": "MSI",
+    "quantity": "10",
+    "price": "5000",
+    "id": 6,
+    "datetime": "21-06-06 01:31:10"
+  },
+  {
+    "name": "Acer",
+    "quantity": "100",
+    "price": "500000",
+    "id": 7,
+    "datetime": "21-06-06 02:43:58"
+  }
+]
